@@ -1,0 +1,23 @@
+timestamp,record_type,ticker,company,sector,shares,buy_price,current_price,cost_basis,market_value,gain_loss,gain_loss_pct,weight_pct,price_source
+2026-11-06T01:18:29,HOLDING,AAPL,Apple Inc.,Information Technology,10.0,150.0,190.0,1500.0,1900.0,400.0,26.67,12.8,file
+2026-11-06T01:18:29,HOLDING,MSFT,Microsoft,Information Technology,5.0,300.0,410.0,1500.0,2050.0,550.0,36.67,13.81,file
+2026-11-06T01:18:29,HOLDING,NVDA,Nvidia,Information Technology,20.0,95.5,120.0,1910.0,2400.0,490.0,25.65,16.17,file
+2026-11-06T01:18:29,HOLDING,AMZN,Amazon,Consumer Discretionary,7.0,125.0,180.0,875.0,1260.0,385.0,44.0,8.49,file
+2026-11-06T01:18:29,HOLDING,JPM,JPMorgan Chase,Financials,6.0,140.0,195.0,840.0,1170.0,330.0,39.29,7.88,file
+2026-11-06T01:18:29,HOLDING,BRK.B,Berkshire Hathaway,Financials,3.0,380.25,450.0,1140.75,1350.0,209.25,18.34,9.09,file
+2026-11-06T01:18:29,HOLDING,JNJ,Johnson & Johnson,Health Care,8.0,165.0,155.0,1320.0,1240.0,-80.0,-6.06,8.35,file
+2026-11-06T01:18:29,HOLDING,XOM,ExxonMobil,Energy,12.0,110.0,118.0,1320.0,1416.0,96.0,7.27,9.54,file
+2026-11-06T01:18:29,HOLDING,DIS,Walt Disney Company (The),Communication Services,10.0,115.0,98.0,1150.0,980.0,-170.0,-14.78,6.6,file
+2026-11-06T01:18:29,HOLDING,PFE,Pfizer,Health Care,40.0,38.0,27.0,1520.0,1080.0,-440.0,-28.95,7.27,file
+2026-11-06T01:18:29,TOTAL,PORTFOLIO,,,,,,13075.75,14846.0,1770.25,13.54,100.0,
+2026-11-06T17:37:13,HOLDING,AAPL,Apple Inc.,Information Technology,10.0,150.0,190.0,1500.0,1900.0,400.0,26.67,12.8,file
+2026-11-06T17:37:13,HOLDING,MSFT,Microsoft,Information Technology,5.0,300.0,410.0,1500.0,2050.0,550.0,36.67,13.81,file
+2026-11-06T17:37:13,HOLDING,NVDA,Nvidia,Information Technology,20.0,95.5,120.0,1910.0,2400.0,490.0,25.65,16.17,file
+2026-11-06T17:37:13,HOLDING,AMZN,Amazon,Consumer Discretionary,7.0,125.0,180.0,875.0,1260.0,385.0,44.0,8.49,file
+2026-11-06T17:37:13,HOLDING,JPM,JPMorgan Chase,Financials,6.0,140.0,195.0,840.0,1170.0,330.0,39.29,7.88,file
+2026-11-06T17:37:13,HOLDING,BRK.B,Berkshire Hathaway,Financials,3.0,380.25,450.0,1140.75,1350.0,209.25,18.34,9.09,file
+2026-11-06T17:37:13,HOLDING,JNJ,Johnson & Johnson,Health Care,8.0,165.0,155.0,1320.0,1240.0,-80.0,-6.06,8.35,file
+2026-11-06T17:37:13,HOLDING,XOM,ExxonMobil,Energy,12.0,110.0,118.0,1320.0,1416.0,96.0,7.27,9.54,file
+2026-11-06T17:37:13,HOLDING,DIS,Walt Disney Company (The),Communication Services,10.0,115.0,98.0,1150.0,980.0,-170.0,-14.78,6.6,file
+2026-11-06T17:37:13,HOLDING,PFE,Pfizer,Health Care,40.0,38.0,27.0,1520.0,1080.0,-440.0,-28.95,7.27,file
+2026-11-06T17:37:13,TOTAL,PORTFOLIO,,,,,,13075.75,14846.0,1770.25,13.54,100.0,
