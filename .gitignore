@@ -24,3 +24,8 @@ env/
 .DS_Store
 Thumbs.db
 
+# Task 3 artifacts
+.organizer/
+demo_folder/
+
+
